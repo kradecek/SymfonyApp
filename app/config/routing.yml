@@ -1,0 +1,4 @@
+kradecek_layout:
+    resource: "@KradecekLayoutBundle/Resources/config/routing.yml"
+    prefix:   /layout/
+
