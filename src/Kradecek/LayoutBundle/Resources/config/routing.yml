@@ -1,0 +1,11 @@
+kr_app_layout_homepage:
+    pattern:  /
+    defaults: { _controller: KradecekLayoutBundle:Default:index }
+
+kr_app_layout_admin:
+    pattern:  /admin/
+    defaults: { _controller: KradecekLayoutBundle:Default:admin }
+
+kr_app_layout_login:
+    pattern:  /login/
+    defaults: { _controller: KradecekLayoutBundle:Default:login }

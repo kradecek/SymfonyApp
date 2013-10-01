@@ -1,0 +1,7 @@
+parameters:
+#    kr_app_layout.example.class: Kradecek\LayoutBundle\Example
+
+services:
+#    kr_app_layout.example:
+#        class: %kr_app_layout.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
