@@ -1,0 +1,51 @@
+SymfonyApp
+==========
+
+This foundamental framework/application with simple user/role management and CMS.
+It is based on Symfony2 and it is for projects with most customer functionality which needs to be done by customer specification.
+
+!!!THIS PROJECT IS AT THE BEGINNING OF THE DEVELOPMENT!!!
+
+1) Installing
+-------------
+
+When it comes to installing the SymfonyApp, you have the
+following options.
+
+### Use Composer (*recommended*)
+
+    curl -s http://getcomposer.org/installer | php
+
+    php composer.phar install
+
+Then, setup what the installator will ask you.
+
+2) Checking your System Configuration
+-------------------------------------
+
+Before starting coding, make sure that your local system is properly
+configured for Symfony.
+
+Execute the `check.php` script from the command line:
+
+    php app/check.php
+
+3) Running the server
+
+The easiest is to run PHP built server using:
+
+    php app/console server:run
+
+
+4) Browsing the Demo Application
+--------------------------------
+
+    http://localhost:8000/app_dev.php/
+
+
+All libraries and bundles included in the Symfony Standard Edition are
+released under the MIT or BSD license.
+
+Enjoy!
+
+

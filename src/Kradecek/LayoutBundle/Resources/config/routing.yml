@@ -9,3 +9,7 @@ kr_app_layout_admin:
 kr_app_layout_login:
     pattern:  /login/
     defaults: { _controller: KradecekLayoutBundle:Default:login }
+    
+kr_app_layout_users:
+    pattern:  /users/
+    defaults: { _controller: KradecekLayoutBundle:Default:users }
