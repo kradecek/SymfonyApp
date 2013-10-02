@@ -2,7 +2,7 @@ SymfonyApp
 ==========
 
 This foundamental framework/application with simple user/role management and CMS.
-It is based on Symfony2 and it is for projects with most customer functionality which needs to be done by customer specification.
+It is based on Symfony2 and it is for projects with more customer functionality which needs to be done by customer specification.
 
 !!!THIS PROJECT IS AT THE BEGINNING OF THE DEVELOPMENT!!!
 
